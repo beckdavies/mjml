@@ -1,0 +1,96 @@
+<mjml> 
+	<mj-body> 
+		<mj-container> 
+			
+			<!-- header -->
+			<mj-section background-color="white" padding-bottom="0">
+				<mj-column width="100%">
+					<mj-image src="https://avatars0.githubusercontent.com/u/16115896?v=3&s=200" width="50px" />
+
+					<mj-divider padding-top="20"
+				          		padding-bottom="0"
+				          		padding-left="0"
+				          		padding-right="0"
+				          		border-width="1px"
+				          		border-color="#f0f0f0"/>
+				</mj-column>
+			</mj-section>
+
+			<!-- banner -->
+			<mj-section padding-bottom="0" background-color="#fcfcfc">
+				<mj-column width="100%">
+					<mj-text align="center" font-family="Helvetica Neue" font-weight="200" font-size="20">
+						Here is what you missed
+					</mj-text>
+					<mj-divider
+						padding-top="20"
+						padding-bottom="0"
+						padding-left="0"
+						padding-right="0"
+						border-width="1px"
+						border-color="#f0f0f0" />
+				</mj-column>
+			</mj-section>
+
+
+			<!-- Articles -->
+			<mj-section>
+				<mj-column width="130">
+					<mj-image src="https://mjml.io/assets/img/responsive.png" width="100" />
+				</mj-column>
+
+				<mj-column width="350">
+					<mj-text align="left" font-size="20" color="grey">
+						Heading here
+					</mj-text>
+					<mj-text align="left" color="grey">
+						Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
+					</mj-text>
+				</mj-column>
+			</mj-section>
+
+			<!-- Editor -->
+			<mj-section padding-bottom="0" background-color="#f3f3f3">
+				<mj-column>
+					<mj-text font-size="20" color="rgb(165, 176, 184)" align="center">
+						Explore our new features
+					</mj-text>
+				</mj-column>
+			</mj-section>
+
+			<!-- Editor image  -->
+			<mj-section padding-top="0" background-color="#f3f3f3">
+				<mj-column width="600">
+					 <mj-image src="https://cloud.githubusercontent.com/assets/6558790/12450760/ee034178-bf85-11e5-9dda-98d0c8f9f8d6.png"/>
+				</mj-column>
+			</mj-section>
+
+			<!-- article -->
+			<mj-section>
+				<mj-column width="130">
+					<mj-image src="https://mjml.io/assets/img/easy-and-quick.png" width="100" />
+				</mj-column>
+				<mj-column width="350">
+					<mj-text align="left" font-size="20" color="grey">
+						Right on time
+					</mj-text>
+					<mj-text align="left" color="grey">
+						 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
+					</mj-text>
+				</mj-column>
+			</mj-section>
+
+			<!-- social -->
+			<mj-section background-color="#f3f3f3">
+				<mj-column>
+					<mj-text align="center">Stay in touch</mj-text>
+					<mj-social 
+						mode="vertical"
+						display="twitter facebook"
+					/> 		
+				</mj-column>
+			</mj-section>
+
+		</mj-container> 
+	</mj-body> 
+</mjml>
